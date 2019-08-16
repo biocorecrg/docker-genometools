@@ -1,7 +1,7 @@
-# ncbi-blast_docker
-Generic Docker image for running NCBI Blast
+# genomtools_docker
+Generic Docker image for Genometools http://genometools.org
 
 * Building Singularity image:
 
-    sudo /usr/local/bin/singularity build ncbi-blast-2.8.1.simg Singularity 
+    sudo /usr/local/bin/singularity build genometools-1.5.9 Singularity 
 
